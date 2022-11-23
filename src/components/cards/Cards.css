@@ -1,0 +1,13 @@
+.card{
+    box-shadow: 1px 0 2px 1px grey;
+    height: 30vh;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.1);
+    
+}
+h2{
+    color: blue;
+}
+h3{
+    color: red;
+}
